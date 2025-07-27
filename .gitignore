@@ -1,0 +1,17 @@
+# ✅ Ignore API keys and secrets
+.env
+config.js
+
+# ✅ Ignore archived/old code
+archive/
+old/
+backup/
+
+# ✅ Node modules or build files (if added in future)
+node_modules/
+dist/
+build/
+
+# ✅ OS/system junk files
+.DS_Store
+Thumbs.db
